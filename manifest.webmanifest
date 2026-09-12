@@ -1,0 +1,17 @@
+{
+  "name": "Segundo cerebro",
+  "short_name": "Cerebro",
+  "description": "Visor de sólo lectura del panel Captura: pendientes, capturas, notas, guías y presupuesto.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2e3440",
+  "theme_color": "#2e3440",
+  "lang": "es",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
